@@ -1,18 +1,10 @@
-# Temporary GitHub Profile
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awade12&show_icons=true&theme=radical)
 
-Welcome to my **temporary GitHub profile**. This account serves as a placeholder while my main account, [wadedesign](https://github.com/wadedesign), is under review due to a **wrongful suspension**.
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awade12&layout=compact&theme=radical)
 
-## About Me
-I’m a passionate developer dedicated to creating impactful projects and collaborating with the community. While I work with GitHub to resolve the issue, I’ll be using this profile to:
-- Maintain my projects
-- Collaborate with others
-- Share updates
+---
 
-## Main Account Status
-My primary account, [wadedesign](https://github.com/wadedesign), is currently unavailable due to a suspension I believe to be unjustified. I am actively working with GitHub support to restore access and resolve this matter.
-
-## Get in Touch
-For inquiries or collaborations, feel free to reach out:
-- **Email**: [wadedesigncomp@gmail.com](mailto:wadedesigncomp@gmail.com)
-
-Thank you for your understanding and support during this time!
+## 🔄 Account Transition
+This new profile was created after a **security issue** on my old account, [wadedesign](https://github.com/wadedesign), caused by a weird login attempt from China. While GitHub resolves the spam block, I'll be using this account for all my active work.
